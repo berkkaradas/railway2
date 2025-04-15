@@ -1,3 +1,3 @@
 #!/bin/bash
-echo "Çalıştırılıyor: testGetBeyza.jar - $(date)"
+echo "Running testGetBeyza.jar at $(date)"
 java -jar testGetBeyza.jar
